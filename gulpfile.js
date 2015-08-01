@@ -1,4 +1,4 @@
-// npm install gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename --save-dev
+// npm install gulp-jshint gulp-sass gulp-uglify gulp-rename --save-dev
 
 // Include gulp
 var gulp = require('gulp');
